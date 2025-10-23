@@ -10,16 +10,12 @@ This project demonstrates core skills in the "Analyze" stage of the Security Ope
 - Incident Response Documentation: Formulating a structured report that identifies the attack vector, analysis findings, and clear mitigation steps.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Online Email Header Analyzer ( MXToolbox)
+- Online Email Header Analyzer ( MXToolbox,AbuseIpDB)
 - URL Analysis Service (e.g., URLScan.io, VirusTotal)
 - Raw Email Source (Phishing Pot GitHub)
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
@@ -41,9 +37,6 @@ Example below.
 - Using the find feature within the text editor, i searched for spf (Sender Policy Framework), results displayed none which is alarming due to most legitimate domains will configure this record to specify which IP addresses and servers are authorized to send email on behalf of that domain.
 
 
-
-
-  
 *Ref 3: Header Analyzer Output*
 <img width="1884" height="627" alt="Screenshot 2025-10-23 110443" src="https://github.com/user-attachments/assets/ced26a23-09d8-48b8-bf4a-c5168ab1c80e" />
 
