@@ -20,7 +20,8 @@ This project demonstrates core skills in the "Analyze" stage of the Security Ope
 Example below.
 
 *Ref 1: Email Body/Content*
-<img width="1914" height="871" alt="Screenshot 2025-10-23 085557" src="https://github.com/user-attachments/assets/8df492c7-9037-48ce-a8cd-71bca03f06f2"/>
+<img width="1914" height="871" alt="ref1" src="https://github.com/user-attachments/assets/b8f175bc-39a3-44fd-9208-a6327eb67872" />
+
 - the email appears to be a security alert of an unusual sign-in actvity for an enduser's Microsoft account.
 -  the email is branded as a legitimate company to create a false sense of trust.
 -  the enduser is instructed to click a button that will "report the user".
